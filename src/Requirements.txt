@@ -1,0 +1,20 @@
+READ ME
+Provide required inputs through console after running the application
+
+Requirements -
+
+Input-
+Number of players in each team, the number of overs and batting order.
+Input overs ball by ball with the runs scored on that ball (could be
+wide, no ball or a wicket).
+
+You are expected to print individual scores, number of balls faced, number of 4s, number of 6s
+for all the players from the batting side at the end of every over.
+You also need to print total score, total wickets.
+You also need to print which team won the match at the end.
+
+This is the bare minimum solution which is expected for the problem. You can add some more
+features once you are done with these, like maintaining bowlers record (total overs bowled, runs
+conceded, wickets taken, maiden overs, dot balls, economy, etc.). Total team extras, batsman
+strike rates, etc. can be added too. But these are "good to have" features, please try to complete
+the bare minimum first.
